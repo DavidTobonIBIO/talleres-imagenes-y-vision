@@ -1,1 +1,0 @@
-# talleres-imagenes-y-vision
