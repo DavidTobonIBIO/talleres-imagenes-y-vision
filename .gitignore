@@ -1,9 +1,10 @@
 .vscode
 *test_script.py
 *diagnostico_histogramas.png
-
-Taller_7/data/*
-Taller_7/models/*
+data/
+models/
+**/data/
+**/models/
 *.keras
 *.h5
 *.DS_Store
